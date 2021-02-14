@@ -16,10 +16,3 @@ def list_dwarves(array)
   #
   # Print a numbered list of each element
 end
-
-#def greet_characters(array)
- 
-#  array.each do |dwaf|
-    #puts out greeting to dwarf
-#  end
-#end
