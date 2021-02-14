@@ -2,7 +2,6 @@ def greet_characters(array)
   count = 0
   array.each do |dwarves|
     if dwarves == String
-      puts "Hello #{dwarves}!"
     end
   end
 end
