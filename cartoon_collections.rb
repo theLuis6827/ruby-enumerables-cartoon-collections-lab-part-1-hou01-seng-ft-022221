@@ -1,7 +1,7 @@
 def greet_characters(array)
   count = 0
   array.each do |dwarves|
-    if dwarves == String
+    dwarves == String
     end
   end
 end
