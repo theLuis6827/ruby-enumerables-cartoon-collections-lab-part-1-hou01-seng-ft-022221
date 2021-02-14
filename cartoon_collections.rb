@@ -1,7 +1,7 @@
 def greet_characters(array)
  # count = 0
   array.each do |dwarves|
-    
+    puts "Hello #{dwarves}!"
   end
 end
   
@@ -18,9 +18,9 @@ def list_dwarves(array)
   # Print a numbered list of each element
 end
 
-def greet_characters(array)
+#def greet_characters(array)
  
-  array.each do |dwaf|
+#  array.each do |dwaf|
     #puts out greeting to dwarf
-  end
-end
+#  end
+#end
