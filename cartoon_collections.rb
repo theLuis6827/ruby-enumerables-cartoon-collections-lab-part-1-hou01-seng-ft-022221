@@ -1,5 +1,5 @@
 def greet_characters(array)
-  count = 0
+ # count = 0
   array.each do |dwarves|
   end
 end
